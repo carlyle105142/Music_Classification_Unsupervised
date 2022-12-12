@@ -1,5 +1,5 @@
 # Music_Classification_Unsupervised
-Manifold Learning, K-Means Clustering
+Dimension Reduction, K-Means Clustering
 
 This project was completed as a UC Davis  coursework under supervision of Prof. Wolfgang. The data is provided as course material and the analysis
 conducted was based on unsupervised learning techniques taught in class.
